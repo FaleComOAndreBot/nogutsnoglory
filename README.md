@@ -1,9 +1,8 @@
 # FALE COM O ANDRÉ : http://falecomoandre.com.br/
 
-<b>Fale com o André: Assistente Norteador de Denúncias e Reclamações na<b>
+<b>Fale com o André: Assistente Norteador de Denúncias e Reclamações na área da saúde<b>
 
-![falecomandre](https://user-images.githubusercontent.com/11876255/50796166-da29d300-12b7-11e9-9be1-8cdc7815fdcc.jpg)
-
+<img src="https://user-images.githubusercontent.com/11876255/50796166-da29d300-12b7-11e9-9be1-8cdc7815fdcc.jpg" width="200" height="200"/>
 
 Acreditamos que o combate à corrupção será mais eficaz se a população sentir-se segura de que está fazendo uma denúncia ou 
 reclamação de forma assertiva, gerando engajamento, confiança e senso de pertencimento. 
