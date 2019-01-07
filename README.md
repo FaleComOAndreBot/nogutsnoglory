@@ -8,7 +8,7 @@ Acreditamos que o combate à corrupção será mais eficaz se a população sent
 reclamação de forma assertiva, gerando engajamento, confiança e senso de pertencimento. 
 O Fale com André é um assistente que ajuda o cidadão a encontrar local certo para realizar sua denúncia.
 
-##Como usar:
+## Como usar:
 - Acesse o site http://falecomoandre.com.br/
 - Lá você encontrar os links para interagir com o André para as seguintes plataformas: Whatsapp, Telegram e Facebook
 - Escolhida a plataforma, você pode enviar seu questionamento para o André, como o exemplo a seguir:
