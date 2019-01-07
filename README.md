@@ -34,4 +34,66 @@
   
 - Selecione Facebook:
   - Você será redirecionado para a página do Fale com o André no Facebook! Lá poderá enviar mensagem para o André e realizar sua denúncia!
+  ![whatsapp image 2019-01-07 at 20 58 34](https://user-images.githubusercontent.com/11876255/50798447-87ecb000-12bf-11e9-9a7e-9d5814638aa5.jpeg)
+  
+  
+  
+  
+  
+  <html><head>
+
+</head>
+
+<body lang="PT-BR">
+
+<div>
+
+<h1>POLÍTICA DE PRIVACIDADE DO CHATBOT FALE COM O ANDRÉ</h1>
+
+<p>Nossa política de privacidade se aplica para o tratamento de toda informação pessoal 
+submetida pelo usuário ou obtida pelas características da conexão como o aplicativo 
+de messenger (BOT). O aplicativo foi desenvolvido para o <a href="http://amapahackfest.com.br/">Amapá HackFest</a>, evento realizado pelo Ministério
+Público do Amapá nos dias 7, 8 e 9 de dezembro de 2018, e seus códigos-fontes
+estão disponíveis no <span>GitHub</span>. Usando o aplicativo e conversando
+com o <span>bot</span>, você estará passando informações, e está
+concordando com nossa política e nossas práticas de privacidade demostradas
+nesse documento.</p>
+
+<h2>QUAL O TIPO DE INFORMAÇÃO QUE O FALE COM O ANDRÉ CAPTURA?</h2>
+
+<p>O <span>chatbot</span> pode ter acesso às
+informações públicas de sua conta disponíveis no <span>facebook</span>.
+Essa informação pode contar nome completo, endereço de e-mail, gênero, IP,
+informações do navegador usado, nome do usuário, informações demográficas, e
+qualquer outra informação necessária para melhorar a interação com o aplicativo
+e disponibilizada pelo aplicativo. As informações enviadas pelo <span>chatbot</span> para a ferramenta são armazenadas e podem ser
+utilizadas para aprimorar a base de respostas da ferramenta.</p>
+
+<p>A informação pessoal compartilhada pelos usuários com o
+nosso aplicativo não será alugada, vendida ou divulgada para terceiros.</p>
+
+<h2>CONDIÇÕES DE USO.</h2>
+
+<p>Se você decidir acessar e usar o aplicativo, você está de acordo com as regras apresentadas neste documento.</p>
+
+<h2>ALTERAÇÕES NA POLITICA DE PRIVACIDADE</h2>
+
+
+<p>Nossa equipe pode adicionar termos a nossa política de
+privacidade de tempos em tempos. O uso das informações coletadas está vinculado
+às regras definidas na política de privacidade em vigor no momento. Qualquer
+mudança irá ser divulgada em nosso site.</p>
+
+<h2>INFORMAÇÕES LEGAIS</h2>
+
+<p>Este instrumento será regido e interpretado de acordo com a
+legislação brasileira, sendo eleito o Foro da Comarca de FLORIANÓPOLIS – SC
+para questões a ele relativas, com renúncia expressa a qualquer outro.</p>
+
+</div>
+
+
+
+
+</body></html>
   
