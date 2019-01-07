@@ -8,9 +8,13 @@ Acreditamos que o combate à corrupção será mais eficaz se a população sent
 reclamação de forma assertiva, gerando engajamento, confiança e senso de pertencimento. 
 O Fale com André é um assistente que ajuda o cidadão a encontrar local certo para realizar sua denúncia.
 
-Como usar:
+##Como usar:
 - Acesse o site http://falecomoandre.com.br/
-- Lá você encontrar os links para interagir com o André para as seguintes plataformas:
+- Lá você encontrar os links para interagir com o André para as seguintes plataformas: Whatsapp, Telegram e Facebook
+- Escolhida a plataforma, você pode enviar seu questionamento para o André, como o exemplo a seguir:
+
+![screen shot 2019-01-07 at 20 33 43](https://user-images.githubusercontent.com/11876255/50797327-920caf80-12bb-11e9-9349-5d27d07fcb48.png)
+
 
   ### Whatsapp:
   - Selecione Whatsapp
@@ -25,7 +29,10 @@ Como usar:
   - Em seguida, clique em "Message"
   - Você será redirecionado para Telegram Web ou se estiver acessando do seu celular, será direcionado para o aplicativo.
 
-  
+  ![screen shot 2019-01-07 at 20 18 08](https://user-images.githubusercontent.com/11876255/50797131-ec594080-12ba-11e9-8b19-b80005590ccc.png)
   
   ### Facebook
+  
+- Selecione Facebook:
+  - Você será redirecionado para a página do Fale com o André no Facebook! Lá poderá enviar mensagem para o André e realizar sua denúncia!
   
