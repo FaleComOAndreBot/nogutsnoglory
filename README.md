@@ -4,8 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/11876255/50796166-da29d300-12b7-11e9-9be1-8cdc7815fdcc.jpg" width="200" height="200"/>
 
-## Acreditamos que o combate à corrupção será mais eficaz se a população sentir-se segura de que está fazendo uma denúncia ou reclamação de forma assertiva, gerando engajamento, confiança e senso de pertencimento. O Fale com André é um assistente que ajuda o cidadão a encontrar local certo para realizar sua denúncia.
-## **_Atualmente o Fale com o André atende somente casos de denúncia na área de Saúde e que são direcionados ao Ministério Público e Ouvidoria Municipal_**
+## Acreditamos que o combate à corrupção será mais eficaz se a população sentir-se segura de que está fazendo uma denúncia ou reclamação de forma assertiva, gerando engajamento, confiança e senso de pertencimento. O Fale com André é um assistente que ajuda o cidadão a encontrar local certo para realizar sua denúncia na área de saúde, por áudio ou texto.
 
 
 ## Casos que o Fale com o André atende:
