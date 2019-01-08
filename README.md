@@ -7,14 +7,22 @@
 ## Acreditamos que o combate à corrupção será mais eficaz se a população sentir-se segura de que está fazendo uma denúncia ou reclamação de forma assertiva, gerando engajamento, confiança e senso de pertencimento. O Fale com André é um assistente que ajuda o cidadão a encontrar local certo para realizar sua denúncia.
 ## **_Atualmente o Fale com o André atende somente casos de denúncia na área de Saúde e que são direcionados ao Ministério Público e Ouvidoria Municipal_**
 
+
+## Casos que o Fale com o André atende:
+  - Fraudes em compra de medicamentos
+  - Falta de remédio em posto/hospital
+  - cobrança indevida de consulta
+  - ausência de médicos
+  - Medicamentos vencidos
+  - Problemas em licitações de equipamentos médicos
+
 ## Como usar:
 - Acesse o site http://falecomoandre.com.br/
 - Lá você encontrar os links para interagir com o André para as seguintes plataformas: Whatsapp, Telegram e Facebook
-- Escolhida a plataforma, você pode enviar seu questionamento para o André, como o exemplo a seguir:
+- Escolhida a plataforma, você pode enviar seu questionamento para o André, *por áudio ou texto*, como o exemplo a seguir:
 
 ![screen shot 2019-01-07 at 20 33 43](https://user-images.githubusercontent.com/11876255/50797327-920caf80-12bb-11e9-9349-5d27d07fcb48.png)
-
-
+  
   ### Whatsapp:
   - Selecione Whatsapp
   - Em seguida, clique em "Message"
