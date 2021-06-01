@@ -28,7 +28,7 @@ readline==6.2.4.1
 requests==2.18.4
 six==1.11.0
 SpeechRecognition==3.7.1
-urllib3==1.22
+urllib3==1.26.5
 watson-developer-cloud==0.26.1
 Werkzeug==0.14.1
 yowsup2==2.4.48
