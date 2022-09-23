@@ -15,7 +15,7 @@ MarkupSafe==1.1.0
 olefile==0.44
 Pillow==4.3.0
 pprint==0.1
-protobuf==3.4.0
+protobuf==3.18.3
 pycparser==2.18
 pycrypto==2.6.1
 pydub==0.20.0
